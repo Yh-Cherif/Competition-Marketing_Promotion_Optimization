@@ -31,4 +31,18 @@ The marketing team has sourced you with historical sales volumes per capita for 
 5) **Final Recommandations :** Finally, a synthetic presentation of the results obtained from the previous steps.
 
 
-Now that we've stated all the important element about this project, let's begin.
+### Results
+
+In this part lies the final recommandations found through the analysis. Read the .ipynb file for the complexe and commented walkthrough.
+
+Here are the 10 recommanded regions for the drink promotion :
+
+![image](https://github.com/user-attachments/assets/92f1f2a4-50ce-4758-9430-23aba420d3a9)
+
+And here is the comparison of the regions found :
+
+![image](https://github.com/user-attachments/assets/0953f89e-7c2e-49b0-9f8d-7551c1e78d4b).
+
+
+
+
